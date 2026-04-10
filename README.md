@@ -4,9 +4,9 @@
 
 <br>
 
-- Meu nome é Guilherme Hermes, tenho 20 anos.
-- Estou cursando o curso de Informatica para internet.
-- Estudante do IFSULDEMINAS.
+- Meu nome é Guilherme Hermes, tenho 23 anos.
+- Estou cursando o curso de Análise e Desenvolvimento de Sistemas (ADS).
+- Estudante da Unilavras.
 - Pagina para testes e commits aleatórios.
 
 <br><br>
