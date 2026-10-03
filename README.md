@@ -1,39 +1,121 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2700&pause=1500&color=B104FF&background=B090FF00&center=true&width=990&height=80&lines=Hello+There!++%3AO;Meu+nome+%C3%A9+Guilherme+Hermes;Estudante+de+Html%2C+Css+e+JS" alt="Typing SVG" /></a>
+<div align="center">
 
-## <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></picture> **Sobre Mim**
+# 👋 Olá! Eu sou Guilherme Hermes
+
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+### 💻 Desenvolvedor Python & JavaScript
+
+### 🚀 Buscando uma oportunidade de estágio em Desenvolvimento de Software
 
 <br>
 
-- Meu nome é Guilherme Hermes, tenho 23 anos.
-- Estou cursando o curso de Análise e Desenvolvimento de Sistemas (ADS).
-- Estudante da Unilavras.
-- Pagina para testes e commits aleatórios.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/guihermes/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/g.hermes14)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hermesz14)
 
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+</div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages</b>
-<br>
+---
 
-<p align="center">
-<br>   
+## 👨‍💻 Sobre mim
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Redes Sociais</b>
-<br>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e tenho interesse em desenvolvimento de software, buscando transformar ideias em aplicações funcionais e bem estruturadas.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hermesz14&label=Profile%20views&color=0e75b6&style=flat" alt="hermesz14" /> </p>
+Tenho experiência acadêmica e prática com desenvolvimento **Front-end, APIs, banco de dados e aplicações utilizando Python e JavaScript**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/g.hermes14" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g.hermes14" height="30" width="40" /></a>
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software, boas práticas de programação e construção de projetos.
+
+🎯 **Objetivo:** iniciar minha carreira profissional na área de desenvolvimento de software através de uma oportunidade de estágio.
+
+---
+
+## 🛠️ Tecnologias
+
+### 💻 Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### ⚛️ Desenvolvimento
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hermesz14&show_icons=true&theme=tokyonight&locale=en" alt="hermesz14" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+</p>
+
+### 🗄️ Banco de Dados & Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+* ⚛️ React e desenvolvimento Front-end
+* 🔌 Desenvolvimento e integração de APIs
+* 🧹 Clean Code e boas práticas
+* 🗄️ Banco de dados e SQL
+* 🟨 JavaScript
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🏟️ Arquibancada
+
+Aplicação desenvolvida em React para exibição de informações relacionadas ao futebol, utilizando componentes, rotas, estilização e integração com APIs.
+
+**Tecnologias:** React • JavaScript • Styled Components • APIs
+
+---
+
+### 💣 Campo Minado API
+
+API desenvolvida para um projeto acadêmico de Campo Minado, com gerenciamento de usuários, partidas e lógica do jogo.
+
+**Tecnologias:** Node.js • Express • PostgreSQL
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hermesz14&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesz14&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
+
+</div>
+
+---
+
+## 📈 Contribuições
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hermesz14\&theme=tokyonight\&hide_border=true\&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📫 Entre em contato
+
+<div align="center">
+
+📧 **Email:** SEU_EMAIL
+
+💼 **LinkedIn:** [Guilherme Hermes](https://www.linkedin.com/in/guihermes/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Sempre aprendendo, sempre evoluindo."
+
+</div>
