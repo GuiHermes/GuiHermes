@@ -106,7 +106,7 @@ API desenvolvida para um projeto acadêmico de Campo Minado, com gerenciamento d
 
 <div align="center">
 
-📧 **Email:** SEU_EMAIL
+📧 **Email:** guihermes.dev@gmail.com
 
 💼 **LinkedIn:** [Guilherme Hermes](https://www.linkedin.com/in/guihermes/)
 
